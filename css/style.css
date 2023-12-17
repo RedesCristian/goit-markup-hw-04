@@ -386,6 +386,10 @@
   padding-bottom: 120px;
 }
 .customers-icons {
-  dipslay: flex;
-  gap: 24px;
+  display: flex;
+  align-items: center;
+}
+
+.position {
+  margin-right: 120px;
 }
