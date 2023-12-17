@@ -350,3 +350,42 @@
   background-position: 50%, 50%;
   background-size: cover;
 }
+.social-media-icons {
+  display: flex;
+  justify-content: space-around;
+}
+.footer-social-media {
+  color: var(--white-color);
+
+  /* Body Medium */
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px; /* 150% */
+  letter-spacing: 0.32px;
+}
+.social-media-div {
+  width: 208px;
+  height: 80px;
+  row-gap: 16px;
+  flex-shrink: 0;
+  margin-left: 0px;
+}
+.footer {
+  display: flex;
+}
+.social-media-footer {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 16px;
+  width: 208px;
+  height: 40px;
+}
+.customers-sectrion {
+  padding-bottom: 120px;
+}
+.customers-icons {
+  dipslay: flex;
+  gap: 24px;
+}
