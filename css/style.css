@@ -403,5 +403,29 @@
 }
 .customers-header {
   margin-top: 72px;
-  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+.company-a {
+  fill: rgba(142, 143, 153, 1);
+}
+.company-a:hover {
+  fill: var(--ocean-color);
+}
+.section-two {
+  width: 264px;
+  height: 112px;
+  flex-shrink: 0;
+  background-color: var(--cloud-color);
+  border-radius: 4px;
+  background-position: 50% 50%;
+}
+.section-two-svg {
+  background-position: 50% 50%;
+}
+.svg-social-media-links {
+  fill: var(--iris-color);
+}
+.svg-social-media-links:hover {
+  fill: #31d0aa;
 }
