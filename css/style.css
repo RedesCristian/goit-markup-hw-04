@@ -471,3 +471,7 @@
 .first-svg:focus {
   background-color: #31d0aa;
 }
+
+.list-disc {
+  list-style: none;
+}
