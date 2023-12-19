@@ -9,6 +9,7 @@
   --cloud-color: #f4f4fd;
   --cornflower-color: #e7e9fc;
   --light-slate-color: #8e8f99;
+  --light-color: #ffffffff;
 }
 
 .body-section {
@@ -369,7 +370,7 @@
 }
 .footer-social-media {
   /*ok*/
-  color: var(--white-color) #ffffffff;
+  color: var(--light-color);
 
   /* Body Medium */
   font-family: Roboto;
@@ -402,8 +403,7 @@
 }
 
 .position {
-  /*ok*/
-  margin-right: 120px;
+  gap: 120px;
 }
 .customers-position {
   align-items: center;
