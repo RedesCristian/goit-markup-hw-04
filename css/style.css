@@ -497,3 +497,11 @@
 .section-iv-link:focus {
   background-color: #404bbf;
 }
+.card-content {
+  display: flex;
+  width: 232px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
