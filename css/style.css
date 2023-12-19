@@ -308,6 +308,7 @@
 }
 .footer-p-position {
   max-width: 264px;
+  margin-bottom: 16px;
 }
 .main-class {
   padding-top: 96px;
@@ -322,6 +323,11 @@
   padding: 12px 24px;
   border: 1px solid #e7e9fc;
   border-radius: 4px;
+}
+.port-btn:hover,
+.port-btn:focus {
+  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08),
+    0px 2px 2px rgba(0, 0, 0, 0.12);
 }
 .second-port-list {
   flex-wrap: wrap;
@@ -397,7 +403,7 @@
   padding-bottom: 120px;
 }
 .customers-icons {
-  /*ok*/
+  gap: 120px;
   display: flex;
   align-items: baseline;
 }
@@ -526,4 +532,7 @@
 .customers-link:focus {
   border-color: #404bbf;
   color: #404bbf;
+}
+.social-media-svg {
+  padding-left: 0px;
 }
