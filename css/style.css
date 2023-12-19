@@ -369,7 +369,7 @@
 }
 .footer-social-media {
   /*ok*/
-  color: #ffffffff;
+  color: var(--white-color) #ffffffff;
 
   /* Body Medium */
   font-family: Roboto;
