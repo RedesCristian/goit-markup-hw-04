@@ -409,8 +409,8 @@
   align-items: center;
 }
 .customers-section {
-  margin-top: 120px;
-  margin-bottom: 120px;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 .customers-list {
   gap: 24px;
@@ -519,8 +519,11 @@
   justify-content: center;
   color: var(--light-slate-color);
 }
-.customers-link:hover,
+.customers-link:hover {
+  border-color: #404bbf;
+  color: #404bbf;
+}
 .customers-link:focus {
   border-color: #404bbf;
-  fill: #404bbf;
+  color: #404bbf;
 }
