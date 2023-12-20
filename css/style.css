@@ -230,7 +230,6 @@
 .prime-section {
   padding: 188px 0;
   max-height: 600px;
-  max-width: 1158px;
 }
 
 .s-section {
@@ -421,6 +420,7 @@
 .customers-list {
   gap: 24px;
   display: flex;
+  padding: 0;
 }
 .company-a {
   fill: currentColor;
