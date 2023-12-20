@@ -138,9 +138,11 @@
   letter-spacing: 0.02em;
   color: var(--slate-color);
 }
-.section-c {
+.section-five-title {
   margin-bottom: 72px;
+}
 
+.section-c {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
