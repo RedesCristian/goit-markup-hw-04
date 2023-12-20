@@ -19,7 +19,7 @@
 .h-two {
   margin: 0;
 }
-.p {
+.psm {
   margin: 0;
 }
 
@@ -396,7 +396,6 @@
   color: var(--light-color);
   margin-bottom: 16px;
   font-family: Roboto;
-
   font-style: normal;
 }
 
@@ -557,8 +556,4 @@
   display: flex;
   width: 1158px;
   padding: 0 15px;
-}
-
-.paragraph-social-media {
-  margin-bottom: 16px;
 }
