@@ -240,6 +240,7 @@
 .prime-section {
   padding: 188px 0;
   max-height: 600px;
+  margin: auto;
 }
 
 .s-section {
@@ -419,9 +420,6 @@
   align-items: baseline;
 }
 
-.position {
-  margin-right: 120px;
-}
 .customers-position {
   align-items: center;
 }
