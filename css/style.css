@@ -16,6 +16,9 @@
   font-family: var(--font-family);
   color: var(--slate-color);
 }
+.h2 {
+  margin: 0;
+}
 
 .logo {
   font-family: "Raleway", sans-serif;
